@@ -1,0 +1,115 @@
+{
+    "allFormats": [
+        {
+            "archives": [
+                "7z",
+                "gz",
+                "rar",
+                "tar",
+                "zip"
+            ]
+        },
+        {
+            "images": [
+                "bmp",
+                "bpg",
+                "cr",
+                "cr2",
+                "crw",
+                "dng",
+                "dpx",
+                "erf",
+                "jfif",
+                "jp2",
+                "jpeg",
+                "jpg",
+                "jxr",
+                "nef",
+                "orf",
+                "raf",
+                "raw",
+                "srw",
+                "tga",
+                "webp"
+            ]
+        },
+        {
+            "vectors": [
+                "ai",
+                "eps",
+                "png",
+                "psb",
+                "psd",
+                "svg",
+                "tif",
+                "tiff"
+            ]
+        },
+        {
+            "documents": [
+                "doc",
+                "docx",
+                "eml",
+                "msg",
+                "pdf",
+                "ppt",
+                "pptx",
+                "rtf",
+                "txt",
+                "xls",
+                "xlsx"
+            ]
+        },
+        {
+            "webPages": [
+                "htm",
+                "html",
+                "htmlx"
+            ]
+        },
+        {
+            "audio": [
+                "aif",
+                "aiff",
+                "m4a",
+                "mp3",
+                "wav"
+            ]
+        },
+        {
+            "videos": [
+                "avi",
+                "flv",
+                "m4v",
+                "mov",
+                "mp4",
+                "mpeg",
+                "mpg",
+                "mxf",
+                "wmv"
+            ]
+        },
+        {
+            "colorProfiles": [
+                "icc",
+                "icm"
+            ]
+        },
+        {
+            "subtitles": [
+                "srt",
+                "sub"
+            ]
+        },
+        {
+            "indesign": [
+                "indd"
+            ]
+        },
+        {
+            "gifs": [
+                "gif"
+            ]
+        }
+    ]
+}
